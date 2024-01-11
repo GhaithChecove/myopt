@@ -1,0 +1,32 @@
+
+
+
+1 - alex token  manager  : 2fa4c3c4af11e9ad8938394d0924b2426d544692
+        username = alex
+        password =  A@123456
+
+2 - sam token customer  : 859d6875df878c93ab83a45edd36f7659abb8fcc
+        user_id  = 3
+        order id = 12 
+        
+        username = sam
+        password  = S@123456
+
+3 - Hernan Token customer : c2d5fec458f98fadf17f66be69afc9465a1cfc39
+        user_id =6
+        order id = 13 
+
+        username = Hernan
+        password = H@123456
+
+4 - Routh Token delivery user :  ff72567a49d0f14cf0212db20e2a49f794f78ca1
+
+        username = Routh
+        password = R@123456
+
+5 - hermes token   admin  = aada2af5a3c08181fa096916142909b65351879b
+
+        username =hermes
+
+        password = 106
+
